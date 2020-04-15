@@ -4,70 +4,70 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -5108864516334648920
-    second: Barbarian1_0
+    second: idle_1
   - first:
       213: 7894597433450948927
-    second: Barbarian1_1
+    second: idle_2
   - first:
       213: -7149426255305018647
-    second: Barbarian1_2
+    second: walk_1
   - first:
       213: -5185502428929997122
-    second: Barbarian1_3
+    second: walk_2
   - first:
       213: -5434511126019091241
-    second: Barbarian1_4
+    second: walk_3
   - first:
       213: -3063775468671410589
-    second: Barbarian1_5
+    second: walk_4
   - first:
       213: -5366906177105649991
-    second: Barbarian1_6
+    second: walk_5
   - first:
       213: -2649239290066108497
-    second: Barbarian1_7
+    second: walk_6
   - first:
       213: -1606966096686998573
-    second: Barbarian1_8
+    second: walk_7
   - first:
       213: 2553762192918487849
-    second: Barbarian1_9
+    second: walk_8
   - first:
       213: 451102041876208084
-    second: Barbarian1_10
+    second: jump_1
   - first:
       213: 917020437017048720
-    second: Barbarian1_11
+    second: jump_2
   - first:
       213: -3206490003738299262
-    second: Barbarian1_12
+    second: jump_3
   - first:
       213: 2971488876245394516
-    second: Barbarian1_13
+    second: jump_4
   - first:
       213: 295616241678227642
-    second: Barbarian1_14
+    second: crouch_1
   - first:
       213: 3042803660290176746
-    second: Barbarian1_15
+    second: crouch_2
   - first:
       213: -15094395349688839
-    second: Barbarian1_16
+    second: attack_1
   - first:
       213: -210913481236543123
-    second: Barbarian1_17
+    second: attack_2
   - first:
       213: -464842401830776344
-    second: Barbarian1_18
+    second: attack_3
   - first:
       213: -4993086770278306515
-    second: Barbarian1_19
+    second: hit_1
   - first:
       213: -5327065787945042815
-    second: Barbarian1_20
+    second: hit_2
   - first:
       213: -3162122668130871159
-    second: Barbarian1_21
+    second: die
   - first:
       213: 6569863967482893965
     second: Barbarian1_22
@@ -253,70 +253,70 @@ TextureImporter:
     second: Barbarian1_82
   - first:
       213: 5900282996000236092
-    second: Barbarian1_0
+    second: idle_1
   - first:
       213: -2469345092717903367
-    second: Barbarian1_1
+    second: idle_2
   - first:
       213: 3161576174391221918
-    second: Barbarian1_2
+    second: walk_1
   - first:
       213: 8517133763218100166
-    second: Barbarian1_3
+    second: walk_2
   - first:
       213: -3434068643145946175
-    second: Barbarian1_4
+    second: walk_3
   - first:
       213: 5424466592050845274
-    second: Barbarian1_5
+    second: walk_4
   - first:
       213: 4574071244793069693
-    second: Barbarian1_6
+    second: walk_5
   - first:
       213: 4475918218429529509
-    second: Barbarian1_7
+    second: walk_6
   - first:
       213: -4509369634472500207
-    second: Barbarian1_8
+    second: walk_7
   - first:
       213: 8750714655875185773
-    second: Barbarian1_9
+    second: walk_8
   - first:
       213: 616874625539378179
-    second: Barbarian1_10
+    second: jump_1
   - first:
       213: -7501074118703784690
-    second: Barbarian1_11
+    second: jump_2
   - first:
       213: 5089174375276110037
-    second: Barbarian1_12
+    second: jump_3
   - first:
       213: -5419230547486283915
-    second: Barbarian1_13
+    second: jump_4
   - first:
       213: 144951166770120682
-    second: Barbarian1_14
+    second: crouch_1
   - first:
       213: -3108885068581908109
-    second: Barbarian1_15
+    second: crouch_2
   - first:
       213: 7822073695211573777
-    second: Barbarian1_16
+    second: attack_1
   - first:
       213: 5858262972393675246
-    second: Barbarian1_17
+    second: attack_2
   - first:
       213: -2882039600568250159
-    second: Barbarian1_18
+    second: attack_3
   - first:
       213: 6007346181481469415
-    second: Barbarian1_19
+    second: hit_1
   - first:
       213: -2974587919063317691
-    second: Barbarian1_20
+    second: hit_2
   - first:
       213: -7192945027899138115
-    second: Barbarian1_21
+    second: die
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -414,7 +414,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Barbarian1_0
+      name: idle_1
       rect:
         serializedVersion: 2
         x: 0
@@ -422,7 +422,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -435,7 +435,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_1
+      name: idle_2
       rect:
         serializedVersion: 2
         x: 240
@@ -443,7 +443,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -456,7 +456,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_2
+      name: walk_1
       rect:
         serializedVersion: 2
         x: 480
@@ -464,7 +464,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -477,7 +477,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_3
+      name: walk_2
       rect:
         serializedVersion: 2
         x: 720
@@ -485,7 +485,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -498,7 +498,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_4
+      name: walk_3
       rect:
         serializedVersion: 2
         x: 960
@@ -506,7 +506,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -519,7 +519,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_5
+      name: walk_4
       rect:
         serializedVersion: 2
         x: 1200
@@ -527,7 +527,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -540,7 +540,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_6
+      name: walk_5
       rect:
         serializedVersion: 2
         x: 1440
@@ -548,7 +548,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -561,7 +561,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_7
+      name: walk_6
       rect:
         serializedVersion: 2
         x: 1680
@@ -569,7 +569,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -582,7 +582,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_8
+      name: walk_7
       rect:
         serializedVersion: 2
         x: 0
@@ -590,7 +590,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -603,7 +603,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_9
+      name: walk_8
       rect:
         serializedVersion: 2
         x: 240
@@ -611,7 +611,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -624,7 +624,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_10
+      name: jump_1
       rect:
         serializedVersion: 2
         x: 480
@@ -632,7 +632,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -645,7 +645,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_11
+      name: jump_2
       rect:
         serializedVersion: 2
         x: 720
@@ -653,7 +653,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -666,7 +666,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_12
+      name: jump_3
       rect:
         serializedVersion: 2
         x: 960
@@ -674,7 +674,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -687,7 +687,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_13
+      name: jump_4
       rect:
         serializedVersion: 2
         x: 1200
@@ -695,7 +695,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -708,7 +708,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_14
+      name: crouch_1
       rect:
         serializedVersion: 2
         x: 1440
@@ -716,7 +716,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -729,7 +729,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_15
+      name: crouch_2
       rect:
         serializedVersion: 2
         x: 1680
@@ -737,7 +737,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -750,7 +750,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_16
+      name: attack_1
       rect:
         serializedVersion: 2
         x: 0
@@ -758,7 +758,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -771,7 +771,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_17
+      name: attack_2
       rect:
         serializedVersion: 2
         x: 240
@@ -779,7 +779,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -792,7 +792,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_18
+      name: attack_3
       rect:
         serializedVersion: 2
         x: 480
@@ -800,7 +800,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -813,7 +813,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_19
+      name: hit_1
       rect:
         serializedVersion: 2
         x: 720
@@ -821,7 +821,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -834,7 +834,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_20
+      name: hit_2
       rect:
         serializedVersion: 2
         x: 960
@@ -842,7 +842,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -855,7 +855,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Barbarian1_21
+      name: die
       rect:
         serializedVersion: 2
         x: 1200
@@ -863,7 +863,7 @@ TextureImporter:
         width: 240
         height: 240
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
