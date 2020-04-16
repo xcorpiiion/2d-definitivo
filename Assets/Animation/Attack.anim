@@ -22,8 +22,11 @@ AnimationClip:
     - time: 0
       value: {fileID: -15094395349688839, guid: a4ba717343d94734792980442ad19773,
         type: 3}
-    - time: 0.25
+    - time: 0.16666667
       value: {fileID: -210913481236543123, guid: a4ba717343d94734792980442ad19773,
+        type: 3}
+    - time: 0.33333334
+      value: {fileID: -464842401830776344, guid: a4ba717343d94734792980442ad19773,
         type: 3}
     - time: 0.5
       value: {fileID: -464842401830776344, guid: a4ba717343d94734792980442ad19773,
@@ -50,6 +53,7 @@ AnimationClip:
     - {fileID: -15094395349688839, guid: a4ba717343d94734792980442ad19773, type: 3}
     - {fileID: -210913481236543123, guid: a4ba717343d94734792980442ad19773, type: 3}
     - {fileID: -464842401830776344, guid: a4ba717343d94734792980442ad19773, type: 3}
+    - {fileID: -464842401830776344, guid: a4ba717343d94734792980442ad19773, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
@@ -74,4 +78,18 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0
+    functionName: playerIsAttacking
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 1
+    messageOptions: 0
+  - time: 0.5
+    functionName: playerIsAttacking
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
